@@ -1,0 +1,15 @@
+*/target
+target
+*~
+lib
+*/test-output
+temp-testng-customsuite.xml
+**pom.xml.releaseBackup
+release.properties
+.classpath
+.project
+.settings
+*.iws
+*.ipr
+*.iml
+
