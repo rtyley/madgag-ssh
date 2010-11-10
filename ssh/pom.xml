@@ -5,10 +5,10 @@
 	<parent>
 		<groupId>com.madgag</groupId>
 		<artifactId>ssh-parent</artifactId>
-		<version>1.2-SNAPSHOT</version>
+		<version>1.2</version>
 	</parent>
 	<artifactId>ssh</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<name>SSH interfaces</name>
 	<packaging>jar</packaging>
 </project>
